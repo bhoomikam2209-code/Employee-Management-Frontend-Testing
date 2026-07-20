@@ -1,0 +1,17 @@
+.dashboard{
+
+    width:400px;
+
+    margin:80px auto;
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:10px;
+
+    text-align:center;
+
+    box-shadow:0px 0px 10px gray;
+
+}
