@@ -65,14 +65,7 @@ The test execution report generated using **Qase** is available in the **TestCas
 
 ---
 
-## 📸 Screenshots
-The **Screenshots** folder contains:
-- Login Page
-- Dashboard
-- Employee List
-- Qase Test Execution Report
 
----
 
 ## ▶️ How to Run the Project
 
